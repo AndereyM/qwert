@@ -1,1 +1,2 @@
-print "Hello rt"
+s=15
+print s
