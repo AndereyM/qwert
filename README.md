@@ -1,3 +1,1 @@
-s=15
-
-print s
+Hello Warld !
